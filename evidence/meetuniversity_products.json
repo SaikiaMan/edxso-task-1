@@ -1,0 +1,14 @@
+{
+  "products_and_services": {
+    "findings": [
+      {
+        "value": "Personalized counseling providing one-on-one guidance tailored to academic interests and personal goals, helping students select the right course and university fit.",
+        "status": "verified",
+        "evidence_ids": [
+          "ev_001"
+        ]
+      }
+    ],
+    "unknowns": []
+  }
+}

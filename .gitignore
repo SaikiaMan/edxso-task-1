@@ -1,0 +1,11 @@
+.env
+*.db
+*.db-*
+__pycache__/
+data/*
+!data/demo/
+submission/
+tmp*/
+.venv/
+.streamlit/secrets.toml
+*_session.json

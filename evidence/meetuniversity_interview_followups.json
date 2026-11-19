@@ -1,0 +1,19 @@
+{
+  "kind": "test_scenarios_not_real_founder_answers",
+  "results": [
+    {
+      "test_answer": "Students hesitate because they?re unsure about funding.",
+      "next_question": {
+        "topic": "funding_concerns",
+        "question": "Regarding student hesitation over funding, at what specific stage in the counseling process does this financial concern typically arise, and what key information do students find themselves lacking?"
+      }
+    },
+    {
+      "test_answer": "We want to grow our Germany admissions business.",
+      "next_question": {
+        "topic": "germany_admissions_growth",
+        "question": "Which target student segments and specific academic programmes are you focusing on to drive this growth in Germany admissions?"
+      }
+    }
+  ]
+}

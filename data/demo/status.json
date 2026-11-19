@@ -1,0 +1,22 @@
+[
+  {
+    "company": "MeetUniversity",
+    "sources": 52,
+    "failures": []
+  },
+  {
+    "company": "PostHog",
+    "sources": 45,
+    "failures": []
+  },
+  {
+    "company": "Patagonia",
+    "sources": 40,
+    "failures": [
+      {
+        "step": "competitors",
+        "error": "Competitor evidence is not traceable to supplied search results"
+      }
+    ]
+  }
+]

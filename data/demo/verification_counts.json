@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Patagonia",
+    "profile_fields": 12,
+    "approved_sources": 33,
+    "competitors": 9,
+    "actual_records": 22,
+    "signals": 19,
+    "opportunities": 8,
+    "briefs": 2,
+    "qualifying_briefs": 2,
+    "interview_complete": true,
+    "context_reassessments": 0,
+    "audits": 0
+  },
+  {
+    "company": "PostHog",
+    "profile_fields": 12,
+    "approved_sources": 28,
+    "competitors": 7,
+    "actual_records": 23,
+    "signals": 23,
+    "opportunities": 14,
+    "briefs": 3,
+    "qualifying_briefs": 3,
+    "interview_complete": true,
+    "context_reassessments": 0,
+    "audits": 0
+  },
+  {
+    "company": "MeetUniversity",
+    "profile_fields": 12,
+    "approved_sources": 31,
+    "competitors": 9,
+    "actual_records": 16,
+    "signals": 14,
+    "opportunities": 5,
+    "briefs": 6,
+    "qualifying_briefs": 3,
+    "interview_complete": true,
+    "context_reassessments": 1,
+    "audits": 1
+  }
+]
